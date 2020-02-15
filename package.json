@@ -1,6 +1,6 @@
 {
   "name": "slides-offline",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Descarga el HTML y las imagenes de una determinada slides",
   "main": "index.js",
   "scripts": {
@@ -12,8 +12,7 @@
   "keywords": [
     "slides",
     "scraping",
-    "backpu",
-    "andes"
+    "backup"
   ],
   "author": "Mariano Botta",
   "license": "ISC",
@@ -21,5 +20,9 @@
     "cheerio": "^1.0.0-rc.3",
     "request": "^2.88.2",
     "request-promise": "^4.2.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liquid36/slides-offline"
   }
 }
